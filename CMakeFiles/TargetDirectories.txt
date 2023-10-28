@@ -1,0 +1,4 @@
+/home/tokyovania/folowup2/CMakeFiles/ServerRTYPE.dir
+/home/tokyovania/folowup2/CMakeFiles/ClientRTYPE.dir
+/home/tokyovania/folowup2/CMakeFiles/edit_cache.dir
+/home/tokyovania/folowup2/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/cmake-build-debug/CMakeFiles/ServerRTYPE.dir
+/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/cmake-build-debug/CMakeFiles/ClientRTYPE.dir
+/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/cmake-build-debug/CMakeFiles/rebuild_cache.dir

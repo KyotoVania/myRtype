@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="RType"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\usr\;CMake Files\..\..\..\usr\lib\;CMake Files\..\..\..\usr\lib\x86_64-linux-gnu\;CMake Files\..\..\..\usr\lib\x86_64-linux-gnu\cmake\;CMake Files\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/tokyovania/folowup2"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/tokyovania/folowup2/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/tokyovania/folowup2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/tokyovania/folowup2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/tokyovania/folowup2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ServerRTYPE">
+				<Option output="/home/tokyovania/folowup2/ServerRTYPE" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tokyovania/folowup2"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/tokyovania/folowup2/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/tokyovania/folowup2/Makefile&quot;  VERBOSE=1 ServerRTYPE"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/tokyovania/folowup2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/tokyovania/folowup2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/tokyovania/folowup2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ServerRTYPE/fast">
+				<Option output="/home/tokyovania/folowup2/ServerRTYPE" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tokyovania/folowup2"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/tokyovania/folowup2/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/tokyovania/folowup2/Makefile&quot;  VERBOSE=1 ServerRTYPE/fast"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/tokyovania/folowup2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/tokyovania/folowup2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/tokyovania/folowup2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ClientRTYPE">
+				<Option output="/home/tokyovania/folowup2/ClientRTYPE" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tokyovania/folowup2"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DCLIENT_MODE"/>
+					<Add directory="/home/tokyovania/folowup2/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/tokyovania/folowup2/Makefile&quot;  VERBOSE=1 ClientRTYPE"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/tokyovania/folowup2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/tokyovania/folowup2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/tokyovania/folowup2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ClientRTYPE/fast">
+				<Option output="/home/tokyovania/folowup2/ClientRTYPE" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tokyovania/folowup2"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DCLIENT_MODE"/>
+					<Add directory="/home/tokyovania/folowup2/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/tokyovania/folowup2/Makefile&quot;  VERBOSE=1 ClientRTYPE/fast"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/tokyovania/folowup2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/tokyovania/folowup2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/tokyovania/folowup2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/tokyovania/folowup2"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/tokyovania/folowup2/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/tokyovania/folowup2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/tokyovania/folowup2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/tokyovania/folowup2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/tokyovania/folowup2"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/tokyovania/folowup2/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/tokyovania/folowup2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/tokyovania/folowup2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/tokyovania/folowup2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/tokyovania/folowup2/include/Batch.hpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/include/ClientMain.hpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/include/Database/Database.hpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/include/ISystem.hpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/include/Quadtree.hpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/include/SpritePool.hpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/include/System.hpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/include/ThreadPool.hpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/src/Batch.cpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/src/Beatmap/BeatmapConfig.cpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/src/Behaviour.cpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/src/ClientMain.cpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/src/Component.cpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/src/Config/Config.cpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/src/ConfigServer.cpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/src/Database/Database.cpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/src/Entity.cpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/src/Event.cpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/src/GUI/GUI.cpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/src/GUI/GUIConfig.cpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/src/GraphicElement/BeatmapPanel.cpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/src/GraphicElement/Button.cpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/src/GraphicElement/ButtonConfig.cpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/src/GraphicElement/LoadingScreen.cpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/src/GraphicElement/RectangleButton.cpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/src/Menu/Menu.cpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/src/MenuSystem.cpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/src/QuadTree.cpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/src/Registry.cpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/src/SceneParsing.cpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/src/ServerMain.cpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/src/Spawner.cpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/src/SpritePool.cpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/src/TextureManager.cpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/src/ThreadPool.cpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/src/global.cpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/src/main.cpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/src/taskLoader.cpp">
+			<Option target="ServerRTYPE"/>
+			<Option target="ClientRTYPE"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfigDependencies.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLSharedTargets-none.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/folowup2/../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLSharedTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

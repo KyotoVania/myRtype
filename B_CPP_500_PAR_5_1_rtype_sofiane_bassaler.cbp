@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="B_CPP_500_PAR_5_1_rtype_sofiane_bassaler"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\lib\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\;CMake Files\googletest\;CMake Files\googletest\googlemock\;CMake Files\googletest\googlemock\cmake\;CMake Files\googletest\googletest\;CMake Files\googletest\googletest\cmake\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="B_CPP_500_PAR_5_1_rtype_sofiane_bassaler">
+				<Option output="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/B_CPP_500_PAR_5_1_rtype_sofiane_bassaler" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 B_CPP_500_PAR_5_1_rtype_sofiane_bassaler"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="B_CPP_500_PAR_5_1_rtype_sofiane_bassaler/fast">
+				<Option output="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/B_CPP_500_PAR_5_1_rtype_sofiane_bassaler" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 B_CPP_500_PAR_5_1_rtype_sofiane_bassaler/fast"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="runTests">
+				<Option output="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/runTests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/include"/>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest/include"/>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 runTests"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="runTests/fast">
+				<Option output="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/runTests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/include"/>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest/include"/>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 runTests/fast"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gmock">
+				<Option output="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/lib/libgmock.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googlemock"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/include"/>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googlemock/include"/>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googlemock"/>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest/include"/>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googlemock/Makefile&quot;  VERBOSE=1 gmock"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gmock/fast">
+				<Option output="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/lib/libgmock.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googlemock"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/include"/>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googlemock/include"/>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googlemock"/>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest/include"/>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googlemock/Makefile&quot;  VERBOSE=1 gmock/fast"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gmock_main">
+				<Option output="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/lib/libgmock_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googlemock"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/include"/>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googlemock/include"/>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googlemock"/>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest/include"/>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googlemock/Makefile&quot;  VERBOSE=1 gmock_main"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gmock_main/fast">
+				<Option output="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/lib/libgmock_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googlemock"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/include"/>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googlemock/include"/>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googlemock"/>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest/include"/>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googlemock/Makefile&quot;  VERBOSE=1 gmock_main/fast"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest">
+				<Option output="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/lib/libgtest.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/include"/>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest/include"/>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest/Makefile&quot;  VERBOSE=1 gtest"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest/fast">
+				<Option output="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/lib/libgtest.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/include"/>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest/include"/>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest/Makefile&quot;  VERBOSE=1 gtest/fast"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_main">
+				<Option output="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/lib/libgtest_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/include"/>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest/include"/>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest/Makefile&quot;  VERBOSE=1 gtest_main"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_main/fast">
+				<Option output="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/lib/libgtest_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/include"/>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest/include"/>
+					<Add directory="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest/Makefile&quot;  VERBOSE=1 gtest_main/fast"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googlemock/src/gmock-all.cc">
+			<Option target="gmock"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googlemock/src/gmock_main.cc">
+			<Option target="gmock_main"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest/src/gtest-all.cc">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest/src/gtest_main.cc">
+			<Option target="gtest_main"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/include/Batch.hpp">
+			<Option target="B_CPP_500_PAR_5_1_rtype_sofiane_bassaler"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/include/Database/Database.hpp">
+			<Option target="B_CPP_500_PAR_5_1_rtype_sofiane_bassaler"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/include/ISystem.hpp">
+			<Option target="B_CPP_500_PAR_5_1_rtype_sofiane_bassaler"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/include/Quadtree.hpp">
+			<Option target="B_CPP_500_PAR_5_1_rtype_sofiane_bassaler"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/include/SpritePool.hpp">
+			<Option target="B_CPP_500_PAR_5_1_rtype_sofiane_bassaler"/>
+			<Option target="runTests"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/include/System.hpp">
+			<Option target="B_CPP_500_PAR_5_1_rtype_sofiane_bassaler"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/include/ThreadPool.hpp">
+			<Option target="B_CPP_500_PAR_5_1_rtype_sofiane_bassaler"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/src/Batch.cpp">
+			<Option target="B_CPP_500_PAR_5_1_rtype_sofiane_bassaler"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/src/Beatmap/BeatmapConfig.cpp">
+			<Option target="B_CPP_500_PAR_5_1_rtype_sofiane_bassaler"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/src/Behaviour.cpp">
+			<Option target="B_CPP_500_PAR_5_1_rtype_sofiane_bassaler"/>
+			<Option target="runTests"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/src/Component.cpp">
+			<Option target="B_CPP_500_PAR_5_1_rtype_sofiane_bassaler"/>
+			<Option target="runTests"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/src/Config/Config.cpp">
+			<Option target="B_CPP_500_PAR_5_1_rtype_sofiane_bassaler"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/src/Database/Database.cpp">
+			<Option target="B_CPP_500_PAR_5_1_rtype_sofiane_bassaler"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/src/Entity.cpp">
+			<Option target="B_CPP_500_PAR_5_1_rtype_sofiane_bassaler"/>
+			<Option target="runTests"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/src/GUI/GUI.cpp">
+			<Option target="B_CPP_500_PAR_5_1_rtype_sofiane_bassaler"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/src/GUI/GUIConfig.cpp">
+			<Option target="B_CPP_500_PAR_5_1_rtype_sofiane_bassaler"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/src/GraphicElement/BeatmapPanel.cpp">
+			<Option target="B_CPP_500_PAR_5_1_rtype_sofiane_bassaler"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/src/GraphicElement/Button.cpp">
+			<Option target="B_CPP_500_PAR_5_1_rtype_sofiane_bassaler"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/src/GraphicElement/ButtonConfig.cpp">
+			<Option target="B_CPP_500_PAR_5_1_rtype_sofiane_bassaler"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/src/GraphicElement/LoadingScreen.cpp">
+			<Option target="B_CPP_500_PAR_5_1_rtype_sofiane_bassaler"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/src/GraphicElement/RectangleButton.cpp">
+			<Option target="B_CPP_500_PAR_5_1_rtype_sofiane_bassaler"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/src/Menu/Menu.cpp">
+			<Option target="B_CPP_500_PAR_5_1_rtype_sofiane_bassaler"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/src/QuadTree.cpp">
+			<Option target="B_CPP_500_PAR_5_1_rtype_sofiane_bassaler"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/src/Registry.cpp">
+			<Option target="B_CPP_500_PAR_5_1_rtype_sofiane_bassaler"/>
+			<Option target="runTests"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/src/Spawner.cpp">
+			<Option target="B_CPP_500_PAR_5_1_rtype_sofiane_bassaler"/>
+			<Option target="runTests"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/src/SpritePool.cpp">
+			<Option target="B_CPP_500_PAR_5_1_rtype_sofiane_bassaler"/>
+			<Option target="runTests"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/src/TextureManager.cpp">
+			<Option target="B_CPP_500_PAR_5_1_rtype_sofiane_bassaler"/>
+			<Option target="runTests"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/src/ThreadPool.cpp">
+			<Option target="B_CPP_500_PAR_5_1_rtype_sofiane_bassaler"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/src/main.cpp">
+			<Option target="B_CPP_500_PAR_5_1_rtype_sofiane_bassaler"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/test/src/Test_behaviour.cpp">
+			<Option target="runTests"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/../../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/../../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfigDependencies.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/../../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/../../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLSharedTargets-none.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/../../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLSharedTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\googletest\"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googlemock/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\googletest\googlemock\"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googlemock/cmake/gmock.pc.in">
+			<Option virtualFolder="CMake Files\googletest\googlemock\cmake\"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googlemock/cmake/gmock_main.pc.in">
+			<Option virtualFolder="CMake Files\googletest\googlemock\cmake\"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\googletest\googletest\"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest/cmake/Config.cmake.in">
+			<Option virtualFolder="CMake Files\googletest\googletest\cmake\"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest/cmake/gtest.pc.in">
+			<Option virtualFolder="CMake Files\googletest\googletest\cmake\"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest/cmake/gtest_main.pc.in">
+			<Option virtualFolder="CMake Files\googletest\googletest\cmake\"/>
+		</Unit>
+		<Unit filename="/home/tokyovania/TEK3/B-CPP-500-PAR-5-1-rtype-sofiane.bassaler/googletest/googletest/cmake/internal_utils.cmake">
+			<Option virtualFolder="CMake Files\googletest\googletest\cmake\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
